@@ -3,7 +3,7 @@
         <div class="row">
             <div class="col-lg-4 mb-md-30 mb-sm-30">
                 <div class="section-title section-title__2">
-                    <h2>best sellers</h2>
+                    <h2>Best sellers</h2>
                 </div>
                 <div class="best-sellers-content">
                     <div class="row product-carousel-active-3" data-row="3">
@@ -180,7 +180,7 @@
             </div>
             <div class="col-lg-4 mb-md-30 mb-sm-30">
                 <div class="section-title section-title__2">
-                    <h2>new arrivals</h2>
+                    <h2>New arrivals</h2>
                 </div>
                 <div class="best-sellers-content">
                     <div class="row product-carousel-active-3" data-row="3">
@@ -357,7 +357,7 @@
             </div>
             <div class="col-lg-4 mb-md-30 mb-sm-30">
                 <div class="section-title section-title__2">
-                    <h2>top rated</h2>
+                    <h2>Top rated</h2>
                 </div>
                 <div class="best-sellers-content">
                     <div class="row product-carousel-active-3" data-row="3">

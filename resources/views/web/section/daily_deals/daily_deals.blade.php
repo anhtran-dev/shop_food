@@ -3,7 +3,7 @@
         <div class="row">
             <div class="col-12">
                 <div class="section-title text-center">
-                    <h2>deal of the day</h2>
+                    <h2>Sản phẩm bán chạy trong ngày</h2>
                 </div>
             </div>
         </div>
@@ -29,18 +29,15 @@
                         </div>
                         <div class="product-name">
                             <h4 class="h5">
-                                <a href="product-details.html">Condimen food</a>
+                                <a href="">Condimen food</a>
                             </h4>
                         </div>
                         <div class="price-box">
                             <span class="regular-price">$90.00</span>
                             <span class="old-price"><del>$120.00</del></span>
                         </div>
-                        <div class="product-countdown deal-timer" data-countdown="2020/05/01"></div>
                         <div class="product-action-link">
-                            <a href="#" data-toggle="tooltip" title="Wishlist"><i class="ion-android-favorite-outline"></i></a>
                             <a href="#" data-toggle="tooltip" title="Add to cart"><i class="ion-bag"></i></a>
-                            <a href="#" data-toggle="tooltip" title="Compare"><i class="ion-ios-shuffle"></i></a>
                         </div>
                     </div>
                 </div>
@@ -73,11 +70,8 @@
                             <span class="regular-price">$90.00</span>
                             <span class="old-price"><del>$120.00</del></span>
                         </div>
-                        <div class="product-countdown deal-timer" data-countdown="2020/04/01"></div>
                         <div class="product-action-link">
-                            <a href="#" data-toggle="tooltip" title="Wishlist"><i class="ion-android-favorite-outline"></i></a>
                             <a href="#" data-toggle="tooltip" title="Add to cart"><i class="ion-bag"></i></a>
-                            <a href="#" data-toggle="tooltip" title="Compare"><i class="ion-ios-shuffle"></i></a>
                         </div>
                     </div>
                 </div>
@@ -110,11 +104,9 @@
                             <span class="regular-price">$90.00</span>
                             <span class="old-price"><del>$120.00</del></span>
                         </div>
-                        <div class="product-countdown deal-timer" data-countdown="2020/06/08"></div>
+
                         <div class="product-action-link">
-                            <a href="#" data-toggle="tooltip" title="Wishlist"><i class="ion-android-favorite-outline"></i></a>
                             <a href="#" data-toggle="tooltip" title="Add to cart"><i class="ion-bag"></i></a>
-                            <a href="#" data-toggle="tooltip" title="Compare"><i class="ion-ios-shuffle"></i></a>
                         </div>
                     </div>
                 </div>
@@ -147,11 +139,9 @@
                             <span class="regular-price">$90.00</span>
                             <span class="old-price"><del>$120.00</del></span>
                         </div>
-                        <div class="product-countdown deal-timer" data-countdown="2020/07/02"></div>
+
                         <div class="product-action-link">
-                            <a href="#" data-toggle="tooltip" title="Wishlist"><i class="ion-android-favorite-outline"></i></a>
                             <a href="#" data-toggle="tooltip" title="Add to cart"><i class="ion-bag"></i></a>
-                            <a href="#" data-toggle="tooltip" title="Compare"><i class="ion-ios-shuffle"></i></a>
                         </div>
                     </div>
                 </div>
@@ -184,11 +174,9 @@
                             <span class="regular-price">$90.00</span>
                             <span class="old-price"><del>$120.00</del></span>
                         </div>
-                        <div class="product-countdown deal-timer" data-countdown="2020/05/01"></div>
+
                         <div class="product-action-link">
-                            <a href="#" data-toggle="tooltip" title="Wishlist"><i class="ion-android-favorite-outline"></i></a>
                             <a href="#" data-toggle="tooltip" title="Add to cart"><i class="ion-bag"></i></a>
-                            <a href="#" data-toggle="tooltip" title="Compare"><i class="ion-ios-shuffle"></i></a>
                         </div>
                     </div>
                 </div>
@@ -257,8 +245,6 @@
                                     <div class="action-link mb-20">
                                         <a href="#" data-toggle="tooltip" title="Add to cart" class="add-to-cart">add
                                             to cart</a>
-                                        <a href="#" data-toggle="tooltip" title="Wishlist"><i class="ion-android-favorite-outline"></i></a>
-                                        <a href="#" data-toggle="tooltip" title="Compare"><i class="ion-ios-shuffle"></i></a>
                                     </div>
                                     <div class="quantity mb-20">
                                         <div class="pro-qty"><input type="text" value="1"></div>

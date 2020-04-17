@@ -3,7 +3,7 @@
         <div class="row">
             <div class="col-12">
                 <div class="section-title text-center">
-                    <h2>Popular Categories</h2>
+                    <h2>Danh mục phổ biến</h2>
                 </div>
             </div>
         </div>
@@ -13,7 +13,7 @@
                     <div class="category-item-inner color1 text-center">
                         <div class="category-content">
                             <h2><a href="product-details.html">vegetables</a></h2>
-                            <p>2 product</p>
+                            <p>2 sản phẩm</p>
                         </div>
                         <div class="category-thumb">
                             <a href="product-details.html">
@@ -28,7 +28,7 @@
                     <div class="category-item-inner color2 text-center">
                         <div class="category-content">
                             <h2><a href="product-details.html">fruits</a></h2>
-                            <p>2 product</p>
+                            <p>2 sản phẩm</p>
                         </div>
                         <div class="category-thumb">
                             <a href="product-details.html">
@@ -43,7 +43,7 @@
                     <div class="category-item-inner color3 text-center">
                         <div class="category-content">
                             <h2><a href="product-details.html">juice</a></h2>
-                            <p>2 product</p>
+                            <p>2 sản phẩm</p>
                         </div>
                         <div class="category-thumb">
                             <a href="product-details.html">
@@ -58,7 +58,7 @@
                     <div class="category-item-inner color4 text-center">
                         <div class="category-content">
                             <h2><a href="product-details.html">meats</a></h2>
-                            <p>2 product</p>
+                            <p>2 sản phẩm</p>
                         </div>
                         <div class="category-thumb">
                             <a href="product-details.html">

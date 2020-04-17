@@ -143,9 +143,7 @@
                                             <span class="old-price"><del></del></span>
                                         </div>
                                         <div class="product-action-link">
-                                            <a href="#" data-toggle="tooltip" title="Wishlist"><i class="ion-android-favorite-outline"></i></a>
                                             <a href="#" data-toggle="tooltip" title="Add to cart"><i class="ion-bag"></i></a>
-                                            <a href="#" data-toggle="tooltip" title="Compare"><i class="ion-ios-shuffle"></i></a>
                                         </div>
                                     </div>
                                 </div>
@@ -183,8 +181,6 @@
                                         <div class="action-link">
                                             <a href="#" data-toggle="tooltip" title="Add to cart" class="add-to-cart">add
                                                 to cart</a>
-                                            <a href="#" data-toggle="tooltip" title="Wishlist"><i class="ion-android-favorite-outline"></i></a>
-                                            <a href="#" data-toggle="tooltip" title="Compare"><i class="ion-ios-shuffle"></i></a>
                                         </div>
                                     </div>
                                 </div>
@@ -221,9 +217,7 @@
                                             <span class="old-price"><del></del></span>
                                         </div>
                                         <div class="product-action-link">
-                                            <a href="#" data-toggle="tooltip" title="Wishlist"><i class="ion-android-favorite-outline"></i></a>
                                             <a href="#" data-toggle="tooltip" title="Add to cart"><i class="ion-bag"></i></a>
-                                            <a href="#" data-toggle="tooltip" title="Compare"><i class="ion-ios-shuffle"></i></a>
                                         </div>
                                     </div>
                                 </div>
@@ -261,8 +255,6 @@
                                         <div class="action-link">
                                             <a href="#" data-toggle="tooltip" title="Add to cart" class="add-to-cart">add
                                                 to cart</a>
-                                            <a href="#" data-toggle="tooltip" title="Wishlist"><i class="ion-android-favorite-outline"></i></a>
-                                            <a href="#" data-toggle="tooltip" title="Compare"><i class="ion-ios-shuffle"></i></a>
                                         </div>
                                     </div>
                                 </div>
@@ -299,9 +291,7 @@
                                             <span class="old-price"><del></del></span>
                                         </div>
                                         <div class="product-action-link">
-                                            <a href="#" data-toggle="tooltip" title="Wishlist"><i class="ion-android-favorite-outline"></i></a>
                                             <a href="#" data-toggle="tooltip" title="Add to cart"><i class="ion-bag"></i></a>
-                                            <a href="#" data-toggle="tooltip" title="Compare"><i class="ion-ios-shuffle"></i></a>
                                         </div>
                                     </div>
                                 </div>
@@ -339,8 +329,6 @@
                                         <div class="action-link">
                                             <a href="#" data-toggle="tooltip" title="Add to cart" class="add-to-cart">add
                                                 to cart</a>
-                                            <a href="#" data-toggle="tooltip" title="Wishlist"><i class="ion-android-favorite-outline"></i></a>
-                                            <a href="#" data-toggle="tooltip" title="Compare"><i class="ion-ios-shuffle"></i></a>
                                         </div>
                                     </div>
                                 </div>
@@ -377,9 +365,7 @@
                                             <span class="old-price"><del></del></span>
                                         </div>
                                         <div class="product-action-link">
-                                            <a href="#" data-toggle="tooltip" title="Wishlist"><i class="ion-android-favorite-outline"></i></a>
                                             <a href="#" data-toggle="tooltip" title="Add to cart"><i class="ion-bag"></i></a>
-                                            <a href="#" data-toggle="tooltip" title="Compare"><i class="ion-ios-shuffle"></i></a>
                                         </div>
                                     </div>
                                 </div>
@@ -417,8 +403,6 @@
                                         <div class="action-link">
                                             <a href="#" data-toggle="tooltip" title="Add to cart" class="add-to-cart">add
                                                 to cart</a>
-                                            <a href="#" data-toggle="tooltip" title="Wishlist"><i class="ion-android-favorite-outline"></i></a>
-                                            <a href="#" data-toggle="tooltip" title="Compare"><i class="ion-ios-shuffle"></i></a>
                                         </div>
                                     </div>
                                 </div>
@@ -455,9 +439,7 @@
                                             <span class="old-price"><del></del></span>
                                         </div>
                                         <div class="product-action-link">
-                                            <a href="#" data-toggle="tooltip" title="Wishlist"><i class="ion-android-favorite-outline"></i></a>
                                             <a href="#" data-toggle="tooltip" title="Add to cart"><i class="ion-bag"></i></a>
-                                            <a href="#" data-toggle="tooltip" title="Compare"><i class="ion-ios-shuffle"></i></a>
                                         </div>
                                     </div>
                                 </div>
@@ -495,8 +477,6 @@
                                         <div class="action-link">
                                             <a href="#" data-toggle="tooltip" title="Add to cart" class="add-to-cart">add
                                                 to cart</a>
-                                            <a href="#" data-toggle="tooltip" title="Wishlist"><i class="ion-android-favorite-outline"></i></a>
-                                            <a href="#" data-toggle="tooltip" title="Compare"><i class="ion-ios-shuffle"></i></a>
                                         </div>
                                     </div>
                                 </div>
@@ -533,9 +513,7 @@
                                             <span class="old-price"><del></del></span>
                                         </div>
                                         <div class="product-action-link">
-                                            <a href="#" data-toggle="tooltip" title="Wishlist"><i class="ion-android-favorite-outline"></i></a>
                                             <a href="#" data-toggle="tooltip" title="Add to cart"><i class="ion-bag"></i></a>
-                                            <a href="#" data-toggle="tooltip" title="Compare"><i class="ion-ios-shuffle"></i></a>
                                         </div>
                                     </div>
                                 </div>
@@ -573,8 +551,6 @@
                                         <div class="action-link">
                                             <a href="#" data-toggle="tooltip" title="Add to cart" class="add-to-cart">add
                                                 to cart</a>
-                                            <a href="#" data-toggle="tooltip" title="Wishlist"><i class="ion-android-favorite-outline"></i></a>
-                                            <a href="#" data-toggle="tooltip" title="Compare"><i class="ion-ios-shuffle"></i></a>
                                         </div>
                                     </div>
                                 </div>
@@ -611,9 +587,7 @@
                                             <span class="old-price"><del></del></span>
                                         </div>
                                         <div class="product-action-link">
-                                            <a href="#" data-toggle="tooltip" title="Wishlist"><i class="ion-android-favorite-outline"></i></a>
                                             <a href="#" data-toggle="tooltip" title="Add to cart"><i class="ion-bag"></i></a>
-                                            <a href="#" data-toggle="tooltip" title="Compare"><i class="ion-ios-shuffle"></i></a>
                                         </div>
                                     </div>
                                 </div>
@@ -651,8 +625,6 @@
                                         <div class="action-link">
                                             <a href="#" data-toggle="tooltip" title="Add to cart" class="add-to-cart">add
                                                 to cart</a>
-                                            <a href="#" data-toggle="tooltip" title="Wishlist"><i class="ion-android-favorite-outline"></i></a>
-                                            <a href="#" data-toggle="tooltip" title="Compare"><i class="ion-ios-shuffle"></i></a>
                                         </div>
                                     </div>
                                 </div>
@@ -689,9 +661,7 @@
                                             <span class="old-price"><del></del></span>
                                         </div>
                                         <div class="product-action-link">
-                                            <a href="#" data-toggle="tooltip" title="Wishlist"><i class="ion-android-favorite-outline"></i></a>
                                             <a href="#" data-toggle="tooltip" title="Add to cart"><i class="ion-bag"></i></a>
-                                            <a href="#" data-toggle="tooltip" title="Compare"><i class="ion-ios-shuffle"></i></a>
                                         </div>
                                     </div>
                                 </div>
@@ -729,8 +699,6 @@
                                         <div class="action-link">
                                             <a href="#" data-toggle="tooltip" title="Add to cart" class="add-to-cart">add
                                                 to cart</a>
-                                            <a href="#" data-toggle="tooltip" title="Wishlist"><i class="ion-android-favorite-outline"></i></a>
-                                            <a href="#" data-toggle="tooltip" title="Compare"><i class="ion-ios-shuffle"></i></a>
                                         </div>
                                     </div>
                                 </div>
@@ -767,9 +735,7 @@
                                             <span class="old-price"><del></del></span>
                                         </div>
                                         <div class="product-action-link">
-                                            <a href="#" data-toggle="tooltip" title="Wishlist"><i class="ion-android-favorite-outline"></i></a>
                                             <a href="#" data-toggle="tooltip" title="Add to cart"><i class="ion-bag"></i></a>
-                                            <a href="#" data-toggle="tooltip" title="Compare"><i class="ion-ios-shuffle"></i></a>
                                         </div>
                                     </div>
                                 </div>
@@ -807,8 +773,6 @@
                                         <div class="action-link">
                                             <a href="#" data-toggle="tooltip" title="Add to cart" class="add-to-cart">add
                                                 to cart</a>
-                                            <a href="#" data-toggle="tooltip" title="Wishlist"><i class="ion-android-favorite-outline"></i></a>
-                                            <a href="#" data-toggle="tooltip" title="Compare"><i class="ion-ios-shuffle"></i></a>
                                         </div>
                                     </div>
                                 </div>
@@ -845,9 +809,7 @@
                                             <span class="old-price"><del></del></span>
                                         </div>
                                         <div class="product-action-link">
-                                            <a href="#" data-toggle="tooltip" title="Wishlist"><i class="ion-android-favorite-outline"></i></a>
                                             <a href="#" data-toggle="tooltip" title="Add to cart"><i class="ion-bag"></i></a>
-                                            <a href="#" data-toggle="tooltip" title="Compare"><i class="ion-ios-shuffle"></i></a>
                                         </div>
                                     </div>
                                 </div>
@@ -885,8 +847,6 @@
                                         <div class="action-link">
                                             <a href="#" data-toggle="tooltip" title="Add to cart" class="add-to-cart">add
                                                 to cart</a>
-                                            <a href="#" data-toggle="tooltip" title="Wishlist"><i class="ion-android-favorite-outline"></i></a>
-                                            <a href="#" data-toggle="tooltip" title="Compare"><i class="ion-ios-shuffle"></i></a>
                                         </div>
                                     </div>
                                 </div>
@@ -923,9 +883,7 @@
                                             <span class="old-price"><del></del></span>
                                         </div>
                                         <div class="product-action-link">
-                                            <a href="#" data-toggle="tooltip" title="Wishlist"><i class="ion-android-favorite-outline"></i></a>
                                             <a href="#" data-toggle="tooltip" title="Add to cart"><i class="ion-bag"></i></a>
-                                            <a href="#" data-toggle="tooltip" title="Compare"><i class="ion-ios-shuffle"></i></a>
                                         </div>
                                     </div>
                                 </div>
@@ -963,8 +921,6 @@
                                         <div class="action-link">
                                             <a href="#" data-toggle="tooltip" title="Add to cart" class="add-to-cart">add
                                                 to cart</a>
-                                            <a href="#" data-toggle="tooltip" title="Wishlist"><i class="ion-android-favorite-outline"></i></a>
-                                            <a href="#" data-toggle="tooltip" title="Compare"><i class="ion-ios-shuffle"></i></a>
                                         </div>
                                     </div>
                                 </div>
@@ -1001,9 +957,7 @@
                                             <span class="old-price"><del></del></span>
                                         </div>
                                         <div class="product-action-link">
-                                            <a href="#" data-toggle="tooltip" title="Wishlist"><i class="ion-android-favorite-outline"></i></a>
                                             <a href="#" data-toggle="tooltip" title="Add to cart"><i class="ion-bag"></i></a>
-                                            <a href="#" data-toggle="tooltip" title="Compare"><i class="ion-ios-shuffle"></i></a>
                                         </div>
                                     </div>
                                 </div>
@@ -1041,8 +995,6 @@
                                         <div class="action-link">
                                             <a href="#" data-toggle="tooltip" title="Add to cart" class="add-to-cart">add
                                                 to cart</a>
-                                            <a href="#" data-toggle="tooltip" title="Wishlist"><i class="ion-android-favorite-outline"></i></a>
-                                            <a href="#" data-toggle="tooltip" title="Compare"><i class="ion-ios-shuffle"></i></a>
                                         </div>
                                     </div>
                                 </div>
@@ -1131,8 +1083,6 @@
                                     <div class="action-link mb-20">
                                         <a href="#" data-toggle="tooltip" title="Add to cart" class="add-to-cart">add
                                             to cart</a>
-                                        <a href="#" data-toggle="tooltip" title="Wishlist"><i class="ion-android-favorite-outline"></i></a>
-                                        <a href="#" data-toggle="tooltip" title="Compare"><i class="ion-ios-shuffle"></i></a>
                                     </div>
                                     <div class="quantity mb-20">
                                         <div class="pro-qty"><input type="text" value="1"></div>

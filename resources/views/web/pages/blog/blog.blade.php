@@ -31,129 +31,129 @@
                                 <div class="blog-img">
                                     <div class="blog-gallery-slider slider-arrow-style slider-arrow-style__style-2">
                                         <div class="blog-single-slide">
-                                            <img src="assets/img/blog/blog1.jpg" alt="">
+                                            <img src="{{asset('assets/img/blog/blog1.jpg')}}" alt="">
                                         </div>
                                         <div class="blog-single-slide">
-                                            <img src="assets/img/blog/blog2.jpg" alt="">
+                                            <img src="{{asset('assets/img/blog/blog2.jpg')}}" alt="">
                                         </div>
                                         <div class="blog-single-slide">
-                                            <img src="assets/img/blog/blog3.jpg" alt="">
+                                            <img src="{{asset('assets/img/blog/blog3.jpg')}}" alt="">
                                         </div>
                                         <div class="blog-single-slide">
-                                            <img src="assets/img/blog/blog4.jpg" alt="">
+                                            <img src="{{asset('assets/img/blog/blog4.jpg')}}" alt="">
                                         </div>
                                     </div>
                                 </div>
                                 <div class="blog-inner-content">
                                     <h5 class="cat-name"><a href="#">fruits</a></h5>
-                                    <h3><a href="blog-details.html">natural fresh berries</a></h3>
+                                    <h3><a href="#">natural fresh berries</a></h3>
                                     <ul class="blog-meta">
                                         <li>Post by: <span>Admin</span></li>
                                         <li>March 10 2019</li>
                                     </ul>
                                     <p>Donec vitae hendrerit arcu, sit amet faucibus nisl. Cras pretium arcu ex.
                                         Aenean posuere libero eu augue condimentum rhoncus. Praesent ornare tortor</p>
-                                    <a href="blog-details.html" class="btn btn__bg">read more</a>
+                                    <a href="#" class="btn btn__bg">read more</a>
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6 col-sm-6">
                             <div class="blog-item-wrapper blog-item-wrapper__blog-grid mb-40">
                                 <div class="blog-img">
-                                    <a href="blog-details.html">
-                                        <img src="assets/img/blog/blog4.jpg" alt="">
+                                    <a href="#">
+                                        <img src="{{asset('assets/img/blog/blog4.jpg')}}" alt="">
                                     </a>
                                 </div>
                                 <div class="blog-inner-content">
                                     <h5 class="cat-name"><a href="#">fruits</a></h5>
-                                    <h3><a href="blog-details.html">natural fresh berries</a></h3>
+                                    <h3><a href="#">natural fresh berries</a></h3>
                                     <ul class="blog-meta">
                                         <li>Post by: <span>Admin</span></li>
                                         <li>March 10 2019</li>
                                     </ul>
                                     <p>Donec vitae hendrerit arcu, sit amet faucibus nisl. Cras pretium arcu ex.
                                         Aenean posuere libero eu augue condimentum rhoncus. Praesent ornare tortor</p>
-                                    <a href="blog-details.html" class="btn btn__bg">read more</a>
+                                    <a href="#" class="btn btn__bg">read more</a>
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6 col-sm-6">
                             <div class="blog-item-wrapper blog-item-wrapper__blog-grid mb-40">
                                 <div class="blog-img">
-                                    <a href="blog-details.html">
-                                        <img src="assets/img/blog/blog2.jpg" alt="">
+                                    <a href="#">
+                                        <img src="{{asset('assets/img/blog/blog2.jpg')}}" alt="">
                                     </a>
                                 </div>
                                 <div class="blog-inner-content">
                                     <h5 class="cat-name"><a href="#">fruits</a></h5>
-                                    <h3><a href="blog-details.html">natural fresh berries</a></h3>
+                                    <h3><a href="#">natural fresh berries</a></h3>
                                     <ul class="blog-meta">
                                         <li>Post by: <span>Admin</span></li>
                                         <li>March 10 2019</li>
                                     </ul>
                                     <p>Donec vitae hendrerit arcu, sit amet faucibus nisl. Cras pretium arcu ex.
                                         Aenean posuere libero eu augue condimentum rhoncus. Praesent ornare tortor</p>
-                                    <a href="blog-details.html" class="btn btn__bg">read more</a>
+                                    <a href="#" class="btn btn__bg">read more</a>
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6 col-sm-6">
                             <div class="blog-item-wrapper blog-item-wrapper__blog-grid mb-40">
                                 <div class="blog-img">
-                                    <a href="blog-details.html">
-                                        <img src="assets/img/blog/blog3.jpg" alt="">
+                                    <a href="#">
+                                        <img src="{{asset('assets/img/blog/blog3.jpg')}}" alt="">
                                     </a>
                                 </div>
                                 <div class="blog-inner-content">
                                     <h5 class="cat-name"><a href="#">fruits</a></h5>
-                                    <h3><a href="blog-details.html">natural fresh berries</a></h3>
+                                    <h3><a href="#">natural fresh berries</a></h3>
                                     <ul class="blog-meta">
                                         <li>Post by: <span>Admin</span></li>
                                         <li>March 10 2019</li>
                                     </ul>
                                     <p>Donec vitae hendrerit arcu, sit amet faucibus nisl. Cras pretium arcu ex.
                                         Aenean posuere libero eu augue condimentum rhoncus. Praesent ornare tortor</p>
-                                    <a href="blog-details.html" class="btn btn__bg">read more</a>
+                                    <a href="#" class="btn btn__bg">read more</a>
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6 col-sm-6">
                             <div class="blog-item-wrapper blog-item-wrapper__blog-grid mb-40">
                                 <div class="blog-img">
-                                    <a href="blog-details.html">
-                                        <img src="assets/img/blog/blog1.jpg" alt="">
+                                    <a href="#">
+                                        <img src="{{asset('assets/img/blog/blog1.jpg')}}" alt="">
                                     </a>
                                 </div>
                                 <div class="blog-inner-content">
                                     <h5 class="cat-name"><a href="#">fruits</a></h5>
-                                    <h3><a href="blog-details.html">natural fresh berries</a></h3>
+                                    <h3><a href="#">natural fresh berries</a></h3>
                                     <ul class="blog-meta">
                                         <li>Post by: <span>Admin</span></li>
                                         <li>March 10 2019</li>
                                     </ul>
                                     <p>Donec vitae hendrerit arcu, sit amet faucibus nisl. Cras pretium arcu ex.
                                         Aenean posuere libero eu augue condimentum rhoncus. Praesent ornare tortor</p>
-                                    <a href="blog-details.html" class="btn btn__bg">read more</a>
+                                    <a href="#" class="btn btn__bg">read more</a>
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6 col-sm-6">
                             <div class="blog-item-wrapper blog-item-wrapper__blog-grid mb-40">
                                 <div class="blog-img">
-                                    <a href="blog-details.html">
-                                        <img src="assets/img/blog/blog4.jpg" alt="">
+                                    <a href="#">
+                                        <img src="{{asset('assets/img/blog/blog4.jpg')}}" alt="">
                                     </a>
                                 </div>
                                 <div class="blog-inner-content">
                                     <h5 class="cat-name"><a href="#">fruits</a></h5>
-                                    <h3><a href="blog-details.html">natural fresh berries</a></h3>
+                                    <h3><a href="#">natural fresh berries</a></h3>
                                     <ul class="blog-meta">
                                         <li>Post by: <span>Admin</span></li>
                                         <li>March 10 2019</li>
                                     </ul>
                                     <p>Donec vitae hendrerit arcu, sit amet faucibus nisl. Cras pretium arcu ex.
                                         Aenean posuere libero eu augue condimentum rhoncus. Praesent ornare tortor</p>
-                                    <a href="blog-details.html" class="btn btn__bg">read more</a>
+                                    <a href="#" class="btn btn__bg">read more</a>
                                 </div>
                             </div>
                         </div>

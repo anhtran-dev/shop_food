@@ -27,10 +27,15 @@
                 <!-- About Text Start -->
                 <div class="col-xl-6 col-lg-6">
                     <div class="about-text-wrap">
-                        <h2><span>Cung cấp tốt nhất</span>sản phẩm từ mỹ dành cho bạn</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam consequuntur dignissimos id illum obcaecati perferendis quisquam sed similique tenetur veritatis!</p>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam consequuntur dignissimos id illum obcaecati perferendis quisquam sed similique tenetur veritatis!</p>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam consequuntur dignissimos id illum obcaecati perferendis quisquam sed similique tenetur veritatis!</p>
+                        <h6 class="title-page">Cung cấp tốt nhất sản phẩm từ mỹ dành cho bạn</h6>
+                        <div class="info">
+                            <p>Bên shop chuyên order hàng mỹ</p>
+                            <p>Chuyên hàng chính hãng</p>
+                            <p>Chuyên các mặt hàng về thực phẩm chức năng của mỹ</p>
+                            <p>Chuyên các đồ dùng cho mẹ và bé</p>
+                            <p>Giá cả cạnh tranh với thị trường</p>
+                        </div>
+
                     </div>
                 </div>
                 <!-- About Text End -->

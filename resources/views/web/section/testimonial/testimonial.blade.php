@@ -3,7 +3,7 @@
         <div class="row">
             <div class="col-12">
                 <div class="section-title text-center">
-                    <h2 class="text-white">testimonial</h2>
+                    <h2 class="text-white">Khách hàng nói gì về chúng tôi !</h2>
                 </div>
             </div>
         </div>

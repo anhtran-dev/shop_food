@@ -17,7 +17,9 @@
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Roboto Condensed' !important;
 }
-
+.section-title h2 {
+    text-transform: none;
+}
 /**/
 .top-bar-right .product-short {
     justify-content: flex-end;
@@ -32,4 +34,25 @@ h1, h2, h3, h4, h5, h6 {
 .wp-user{
     width: 60%;
     margin:0 auto;
+}
+.about-text-wrap .info{
+    padding-left: 20px;
+}
+.about-text-wrap .info p{
+    padding-left: 15px;
+    position: relative;
+    line-height: 30px;
+}
+.about-text-wrap .info p:before{
+    font-family: "FontAwesome";
+    content: "\f00c";
+    font-size: 10px;
+    position: absolute;
+    top:0;
+    left: 0;
+}
+.title-page{
+    font-size: 20px;
+    color: #f1c40f;
+    padding: 20px 0;
 }
