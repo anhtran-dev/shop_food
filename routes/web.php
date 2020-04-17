@@ -13,6 +13,22 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
+Route::get('/','IndexController@index');
+Route::get('contact','IndexController@contact')->name('contact');
+Route::get('about','IndexController@about')->name('about');
+
+// Product
+Route::group(['prefix'=>'product'],function(){
+    Route::get('/','IndexController@allProduct')->name('product.all');
+    Route::get('/category/{id}','IndexController@productByCategory')->name('category.product');
 });
+// Blog
+Route::group(['prefix'=>'blog'],function(){
+    Route::get('/','IndexController@blog')->name('blog');
+});
+
+// User
+Route::get('login','IndexController@login')->name('login');
+Route::get('register','IndexController@register')->name('register');
+Route::get('my-account','IndexController@myAccount')->name('my_account');
+

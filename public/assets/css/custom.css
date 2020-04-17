@@ -1,0 +1,35 @@
+/*header */
+.header-search-box {
+    min-width: 295px;
+    -webkit-box-flex: 1;
+    -ms-flex: 1 0 295px;
+    flex: 1 0 295px;
+    margin-left: 45px;
+     margin-right: 0;
+     padding-right: 0;
+    position: relative;
+}
+.header-search-box:before {
+    background: none;
+}
+/**/
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Roboto Condensed' !important;
+}
+
+/**/
+.top-bar-right .product-short {
+    justify-content: flex-end;
+    width: 100%;
+}
+
+/**/
+.forget-pwd{
+    width: 100%;
+    text-align: right;
+}
+.wp-user{
+    width: 60%;
+    margin:0 auto;
+}
